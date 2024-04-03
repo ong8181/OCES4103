@@ -1,51 +1,51 @@
-,order,family_w_n,family,scientific_name,coastal_fish,avr_identity,avr_lod,water_area,habitat,depth_s,depth_d
-Taxa0001,Myxiniformes,001_Myxinidae,Myxinidae,Eptatretus atami,D,100,MODERATE,S,bathydemersal,300,536
-Taxa0002,Myxiniformes,001_Myxinidae,Myxinidae,U98.5_Myxine garmani,D,90,MODERATE,S,bathydemersal,500,800
-Taxa0003,Petromyzontiformes,002_Petromyzontidae,Petromyzontidae,Lethenteron spN,F,100,MODERATE,NA,NA,NA,NA
-Taxa0004,Squaliformes,037_Somniosidae,Somniosidae,Somniosus microcephalus,D,100,MODERATE,BS,benthopelagic,0,2200
-Taxa0005,Squatiniformes,040_Squatinidae,Squatinidae,Squatina japonica,C,100,HIGH,S,demersal,NA,NA
-Taxa0006,Rajiformes,048_Rajidae,Rajidae,Amblyraja georgiana,D,99.4,LOW,S,bathydemersal,20,350
-Taxa0007,Rajiformes,048_Rajidae,Rajidae,Bathyraja kincaidii,D,99.4,LOW,NA,NA,NA,NA
-Taxa0008,Rajiformes,048_Rajidae,Rajidae,Bathyraja matsubarai,D,98.9,LOW,S,bathydemersal,120,2000
-Taxa0009,Rajiformes,048_Rajidae,Rajidae,Rajella bigelowi,D,100,MODERATE,S,bathydemersal,650,4156
-Taxa0010,Rajiformes,048_Rajidae,Rajidae,Rajella fyllae,D,99.4,LOW,S,bathydemersal,170,2050
-Taxa0011,Anguilliformes,074_Anguillidae,Anguillidae,Anguilla japonica,C,99.93,HIGH,FBS,demersal,1,400
-Taxa0012,Anguilliformes,074_Anguillidae,Anguillidae,Anguilla marmorata,C,100,LOW,FBS,demersal,1,400
-Taxa0013,Anguilliformes,079_Muraenidae,Muraenidae,Anarchias sp Ansp,C,99.84,LOW,NA,NA,NA,NA
-Taxa0014,Anguilliformes,079_Muraenidae,Muraenidae,Echidna xanthospilos,C,100,LOW,S,demersal,NA,NA
-Taxa0015,Anguilliformes,079_Muraenidae,Muraenidae,Enchelycore anatina,C,98.8,HIGH,S,demersal,3,60
-Taxa0016,Anguilliformes,079_Muraenidae,Muraenidae,Enchelycore pardalis,C,99.97,HIGH,S,reef-associated,8,60
-Taxa0017,Anguilliformes,079_Muraenidae,Muraenidae,Gymnothorax chilospilus,C,99.7,HIGH,S,reef-associated,1,45
-Taxa0018,Anguilliformes,079_Muraenidae,Muraenidae,Gymnothorax eurostus,C,100,HIGH,S,reef-associated,1,74
-Taxa0019,Anguilliformes,079_Muraenidae,Muraenidae,Gymnothorax isingteena,C,100,HIGH,S,reef-associated,3,30
-Taxa0020,Anguilliformes,079_Muraenidae,Muraenidae,Gymnothorax kidako,C,99.98,HIGH,S,reef-associated,2,350
-Taxa0021,Anguilliformes,079_Muraenidae,Muraenidae,Gymnothorax leucostigma,C,99.4,LOW,NA,NA,NA,NA
-Taxa0022,Anguilliformes,079_Muraenidae,Muraenidae,Gymnothorax meleagris,C,100,HIGH,FBS,reef-associated,1,51
-Taxa0023,Anguilliformes,079_Muraenidae,Muraenidae,Gymnothorax phasmatodes,C,98.8,HIGH,S,demersal,NA,NA
-Taxa0024,Anguilliformes,079_Muraenidae,Muraenidae,Gymnothorax pictus,C,100,HIGH,BS,reef-associated,5,100
-Taxa0025,Anguilliformes,079_Muraenidae,Muraenidae,Gymnothorax reticularis,C,100,LOW,S,demersal,NA,56
-Taxa0026,Anguilliformes,079_Muraenidae,Muraenidae,Gymnothorax thyrsoideus,C,100,HIGH,S,reef-associated,0,30
-Taxa0027,Anguilliformes,079_Muraenidae,Muraenidae,U98.5_Enchelycore anatina gotu1,C,98.13,HIGH,S,demersal,3,60
-Taxa0028,Anguilliformes,079_Muraenidae,Muraenidae,U98.5_Gymnothorax kidako gotu1,C,98.22,LOW,S,reef-associated,2,350
-Taxa0029,Anguilliformes,081_Ophichthidae,Ophichthidae,Brachysomophis crocodilinus,C,99.4,HIGH,S,reef-associated,0,30
-Taxa0030,Anguilliformes,081_Ophichthidae,Ophichthidae,Neenchelys sp KAUM I 113282,D,100,LOW,NA,NA,NA,NA
-Taxa0031,Anguilliformes,081_Ophichthidae,Ophichthidae,Ophichthus erabo,C,99.55,HIGH,S,reef-associated,NA,155
-Taxa0032,Anguilliformes,081_Ophichthidae,Ophichthidae,Ophisurus macrorhynchos,C,100,HIGH,S,demersal,NA,NA
-Taxa0033,Anguilliformes,081_Ophichthidae,Ophichthidae,Pisodonophis zophistius,C,100,LOW,NA,NA,NA,NA
-Taxa0034,Anguilliformes,081_Ophichthidae,Ophichthidae,U98.5_Brachysomophis crocodilinus,C,84.9,LOW,S,reef-associated,0,30
-Taxa0035,Anguilliformes,081_Ophichthidae,Ophichthidae,U98.5_Echelus myrus,C,91.3,LOW,BS,demersal,3,550
-Taxa0036,Anguilliformes,081_Ophichthidae,Ophichthidae,U98.5_Xyrias revulsus gotu1,D,94.8,LOW,S,demersal,146,209
-Taxa0037,Anguilliformes,086_Congridae,Congridae,Ariosoma scheelei,D,99.7,MODERATE,S,reef-associated,9,55
-Taxa0038,Anguilliformes,086_Congridae,Congridae,Ariosoma shiroanago,D,100,LOW,S,demersal,NA,NA
-Taxa0039,Anguilliformes,086_Congridae,Congridae,Gnathophis bathytopos,C,100,MODERATE,S,bathydemersal,180,370
-Taxa0040,Anguilliformes,086_Congridae,Congridae,Gnathophis nystromi,C,99.92,LOW,S,reef-associated,144,577
-Taxa0041,Anguilliformes,086_Congridae,Congridae,U98.5_Gnathophis bathytopos gotu1,C,95.2,LOW,S,bathydemersal,180,370
-Taxa0042,Anguilliformes,086_Congridae,Congridae,U98.5_Gnathophis bathytopos gotu2,C,97,LOW,S,bathydemersal,180,370
-Taxa0043,Anguilliformes,087_Nettastomatidae,Nettastomatidae,Nettastoma solitarium,D,100,MODERATE,S,benthopelagic,415,610
-Taxa0044,Clupeiformes,095_Engraulidae,Engraulidae,Encrasicholina punctifer,C,99.96,HIGH,S,reef-associated,5,35
-Taxa0045,Clupeiformes,095_Engraulidae,Engraulidae,Engraulis japonicus,C,99.97,HIGH,S,pelagic-neritic,0,400
-Taxa0046,Clupeiformes,095_Engraulidae,Engraulidae,U98.5_Engraulis japonicus gotu1,C,98.2,MODERATE,S,pelagic-neritic,0,400
-Taxa0047,Clupeiformes,095_Engraulidae,Engraulidae,U98.5_Engraulis japonicus gotu2,C,98.2,MODERATE,S,pelagic-neritic,0,400
-Taxa0048,Clupeiformes,095_Engraulidae,Engraulidae,U98.5_Engraulis japonicus gotu3,C,98.2,MODERATE,S,pelagic-neritic,0,400
-Taxa0049,Clupeiformes,097_Clupeidae,Clupeidae,Etrumeus teres,C,99.98,MODERATE,NA,NA,NA,NA
-Taxa0050,Clupeiformes,097_Clupeidae,Clupeidae,Konosirus punctatus,C,99.97,HIGH,BS,pelagic-neritic,NA,NA
+"","order","family_w_n","family","scientific_name","coastal_fish","avr_identity","avr_lod","water_area","habitat","depth_s","depth_d"
+"Taxa0598","Perciformes","447_Blenniidae","Blenniidae","Istiblennius enosimae","C","99.99","MODERATE",NA,NA,NA,NA
+"Taxa0479","Perciformes","391_Kyphosidae","Kyphosidae","Girella punctata","C","100","HIGH","S","reef-associated",NA,NA
+"Taxa0849","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Takifugu niphobles","C","99.66","LOW","S","demersal",NA,NA
+"Taxa0045","Clupeiformes","095_Engraulidae","Engraulidae","Engraulis japonicus","C","99.97","HIGH","S","pelagic-neritic",0,400
+"Taxa0752","Perciformes","467_Siganidae","Siganidae","Siganus fuscescens","C","100","LOW","BS","reef-associated",1,50
+"Taxa0207","Atheriniformes","251_Atherinidae","Atherinidae","Atherion elymus","C","100","HIGH","S","reef-associated",0,3
+"Taxa0584","Perciformes","445_Tripterygiidae","Tripterygiidae","Enneapterygius etheostomus","C","99.97","HIGH","S","demersal",0,21
+"Taxa0664","Perciformes","460_Gobiidae","Gobiidae","Chaenogobius annularis","C","99.99","HIGH","F","demersal",NA,NA
+"Taxa0544","Perciformes","412_Labridae","Labridae","Thalassoma cupido","C","100","HIGH","S","demersal",NA,NA
+"Taxa0201","Mugiliformes","245_Mugilidae","Mugilidae","Mugil cephalus","C","99.98","HIGH","FBS","benthopelagic",0,120
+"Taxa0451","Perciformes","378_Sparidae","Sparidae","Acanthopagrus schlegelii","C","100","LOW","BS","demersal",15,NA
+"Taxa0053","Clupeiformes","097_Clupeidae","Clupeidae","Sardinops melanostictus","C","99.98","LOW",NA,NA,NA,NA
+"Taxa0477","Perciformes","391_Kyphosidae","Kyphosidae","Girella leonina","C","100","HIGH","S","reef-associated",1,15
+"Taxa0020","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax kidako","C","99.98","HIGH","S","reef-associated",2,350
+"Taxa0594","Perciformes","447_Blenniidae","Blenniidae","Entomacrodus stellifer stellifer","C","100","HIGH","S","reef-associated",NA,NA
+"Taxa0336","Perciformes","332_Moronidae","Moronidae","Lateolabrax japonicus","C","99.99","HIGH","FBS","reef-associated",5,NA
+"Taxa0324","Scorpaeniformes","320_Cottidae","Cottidae","Pseudoblennius marmoratus","C","99.99","HIGH","S","demersal",NA,NA
+"Taxa0765","Perciformes","470_Acanthuridae","Acanthuridae","Prionurus scalprum","C","99.98","HIGH","S","reef-associated",NA,NA
+"Taxa0204","Atheriniformes","247_Notocheiridae","Notocheiridae","Iso flosmaris","C","99.99","HIGH","S","demersal",NA,NA
+"Taxa0208","Atheriniformes","251_Atherinidae","Atherinidae","Hypoatherina tsurugae","C","99.99","HIGH","S","pelagic-neritic",NA,NA
+"Taxa0054","Clupeiformes","097_Clupeidae","Clupeidae","Spratelloides gracilis","C","100","HIGH","S","pelagic-neritic",NA,40
+"Taxa0419","Perciformes","364_Carangidae","Carangidae","Trachurus japonicus","C","99.98-100","LOW-MODERATE","BS","pelagic-oceanic",0,1050
+"Taxa0601","Perciformes","447_Blenniidae","Blenniidae","Parablennius yatabei","C","99.97","HIGH","S","demersal",NA,NA
+"Taxa0780","Perciformes","475_Scombridae","Scombridae","Scomber spp.","C","99.98","LOW","S","pelagic-neritic",87,200
+"Taxa0510","Perciformes","410_Embiotocidae","Embiotocidae","Ditrema temminckii temminckii","C","100","LOW",NA,NA,NA,NA
+"Taxa0665","Perciformes","460_Gobiidae","Gobiidae","Chaenogobius gulosus","C","99.99","HIGH","BS","demersal",0,2
+"Taxa0049","Clupeiformes","097_Clupeidae","Clupeidae","Etrumeus teres","C","99.98","MODERATE",NA,NA,NA,NA
+"Taxa0286","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Sebastes spp.","C","99.4-100","LOW-MODERATE","S","demersal",9,600
+"Taxa0558","Perciformes","417_Stichaeidae","Stichaeidae","Dictyosoma rubrimaculatum","C","99.97","HIGH","S","reef-associated",NA,NA
+"Taxa0616","Perciformes","450_Chaenopsidae","Chaenopsidae","Neoclinus bryope","C","100","HIGH","S","demersal",NA,NA
+"Taxa0658","Perciformes","460_Gobiidae","Gobiidae","Bathygobius fuscus","C","99.99","HIGH","FBS","reef-associated",0,6
+"Taxa0599","Perciformes","447_Blenniidae","Blenniidae","Omobranchus elegans","C","99.99","HIGH","S","demersal",NA,NA
+"Taxa0209","Atheriniformes","251_Atherinidae","Atherinidae","Hypoatherina valenciennei","C","100","MODERATE","BS","pelagic-neritic",NA,NA
+"Taxa0505","Perciformes","405_Cheilodactylidae","Cheilodactylidae","Cheilodactylus zonatus","C","99.98","LOW","S","benthopelagic",NA,NA
+"Taxa0311","Scorpaeniformes","316_Hexagrammidae","Hexagrammidae","Hexagrammos otakii・H. agrammus","C","99.99-100","LOW-MODERATE","S","demersal",NA,NA
+"Taxa0480","Perciformes","391_Kyphosidae","Kyphosidae","Kyphosus bigibbus","C","99.99","HIGH","S","reef-associated",2,NA
+"Taxa0562","Perciformes","417_Stichaeidae","Stichaeidae","Zoarchias neglectus","C","100","HIGH","S","demersal",NA,NA
+"Taxa0523","Perciformes","411_Pomacentridae","Pomacentridae","Pomacentrus caeruleopunctatus","C","99.99","LOW","S","reef-associated",7,10
+"Taxa0673","Perciformes","460_Gobiidae","Gobiidae","Eviota abax","C","99.99","HIGH","S","reef-associated",NA,NA
+"Taxa0218","Beloniformes","253_Exocoetidae","Exocoetidae","Cypselurus heterurus doederleini","C","99.99","LOW",NA,NA,NA,NA
+"Taxa0438","Perciformes","374_Haemulidae","Haemulidae","Parapristipoma trilineatum","C","99.98","HIGH","S","benthopelagic",NA,NA
+"Taxa0337","Perciformes","332_Moronidae","Moronidae","Lateolabrax latus","C","99.98","HIGH","S","demersal",NA,NA
+"Taxa0325","Scorpaeniformes","320_Cottidae","Cottidae","Pseudoblennius percoides","C","100","HIGH","S","demersal",NA,NA
+"Taxa0848","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Takifugu fasciatus","C","99.99","LOW",NA,NA,NA,NA
+"Taxa0498","Perciformes","401_Oplegnathidae","Oplegnathidae","Oplegnathus fasciatus","C","99.99","HIGH","S","reef-associated",1,10
+"Taxa0050","Clupeiformes","097_Clupeidae","Clupeidae","Konosirus punctatus","C","99.97","HIGH","BS","pelagic-neritic",NA,NA
+"Taxa0708","Perciformes","460_Gobiidae","Gobiidae","Pterogobius elapoides","C","99.99","LOW","S","demersal",NA,NA
+"Taxa0476","Perciformes","383_Pempheridae","Pempheridae","Pempheris schwenkii","C","99.99","LOW","S","reef-associated",5,40
+"Taxa0852","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Takifugu stictonotus","C","100","LOW","S","demersal",NA,NA
+"Taxa0214","Beloniformes","253_Exocoetidae","Exocoetidae","Cheilopogon doederleinii","C","99.98","LOW","S","pelagic-oceanic",0,NA
