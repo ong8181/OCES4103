@@ -11,6 +11,7 @@ If R/RStudio is already installed on your PC, the most straightforward way to us
 ## Open Jupyter notebook in Google Colab
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/OCES4103/blob/main/L16_RBasics-I.ipynb) L16_RBasics-I.ipynb 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/OCES4103/blob/main/L16_RBasics-II.ipynb) L16_RBasics-II.ipynb
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/OCES4103/blob/main/L17_PCAandOthers.ipynb) L17_PCAandOthers.ipynb
 
 
  
